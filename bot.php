@@ -25,7 +25,7 @@ if (!is_null($events['events'])) {
 			// Build message to reply back
 			$messages = [
 				'type' => 'text',
-				'text' => $text
+				'text' => "จ่าเฉยยินดีรับใช้ครับ"
 			];
 			$data = [
 				'replyToken' => $replyToken,
